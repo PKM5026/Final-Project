@@ -1,0 +1,4 @@
+Food_ID,Name,Quantity,Price,Discount,Stock
+1001,Burger,3pieces,60,5,10
+1002,Vegan Burger,2piece,100,10,15
+1003,Veg puff,5piece,120,5,20
